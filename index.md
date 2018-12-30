@@ -24,6 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+<img src="upload/20131017185230.gif" alt="替代文字一" title="範例圖片一">
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
