@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![RobbieLu]("https://github.com/RobbieLu/PON/blob/master/Cabe2.gif")
+![RobbieLu](https://github.com/RobbieLu/PON/blob/master/Cabe2.gif "C")
 
 You can use the [editor on GitHub](https://github.com/RobbieLu/PON/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
