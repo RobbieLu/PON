@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![image](https://github.com/RobbieLu/PON/blob/master/piccc/cbw8n-yoyep.gif)
+![](https://github.com/RobbieLu/PON/blob/master/piccc/cbw8n-yoyep.gif)
 
 You can use the [editor on GitHub](https://github.com/RobbieLu/PON/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
