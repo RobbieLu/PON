@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+<img src="PON/piccc/Cabe.jpg" alt="替代文字一" title="範例圖片一">
+![image](https://github.com/RobbieLu/PON/blob/master/piccc/Cabe.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
