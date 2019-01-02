@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 <img src="PON/piccc/Cabe.jpg" alt="替代文字一" title="範例圖片一">
+![image]()
 
 ```
 
